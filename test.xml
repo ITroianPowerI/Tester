@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<IntegrationInstanceDto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<LinkedInstances> 
+		<IntegrationInstanceDto>
+			<InstanceFields>
+				<IntegrationInstanceFieldDto>
+					<FieldName>PricePNDS</FieldName>
+					<FieldValue>573000</FieldValue>
+				</IntegrationInstanceFieldDto>
+				<IntegrationInstanceFieldDto>
+					<FieldName>PricePNDS</FieldName>
+					<FieldValue></FieldValue>
+				</IntegrationInstanceFieldDto>
+				<IntegrationInstanceFieldDto>
+					<FieldName>PricePNDS</FieldName>
+					<FieldValue>0</FieldValue>
+				</IntegrationInstanceFieldDto>
+			</InstanceFields>
+		</IntegrationInstanceDto>
+	</LinkedInstances>
+	<InstanceFields>
+		<IntegrationInstanceFieldDto> 
+			<FieldName>RelManufact</FieldName>
+			<FieldValue />
+		</IntegrationInstanceFieldDto>   
+		<IntegrationInstanceFieldDto> 
+			<FieldName>NumberEISa2</FieldName>
+			<FieldValue>32110850363</FieldValue> 
+		</IntegrationInstanceFieldDto>
+		<IntegrationInstanceFieldDto>
+			<FieldName>PricePNDS</FieldName>
+			<FieldValue>573000</FieldValue>
+		</IntegrationInstanceFieldDto>
+		<IntegrationInstanceFieldDto>
+			<FieldName>MSPInposPrice</FieldName>
+			<FieldValue>Нет</FieldValue>
+		</IntegrationInstanceFieldDto>
+		<IntegrationInstanceFieldDto>
+			<FieldName>ehdsapdate</FieldName>
+			<FieldValue>15.11.2021</FieldValue>
+		</IntegrationInstanceFieldDto>
+	</InstanceFields>
+<InstanceName />
+<TemplateName>TemNotic</TemplateName>
+</IntegrationInstanceDto>
